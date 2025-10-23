@@ -137,5 +137,3 @@ This project is licensed under the **MIT License** — free for learning, modifi
 ---
 
 > ⚡ *FlashPing – bridging communication through light.*
-
-```
